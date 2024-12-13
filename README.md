@@ -1,5 +1,10 @@
 # Ma Config (commandes déjà réalisées) :
 
+## Clonage de l'image de coopTilleuls "Symfony Docker":
+```
+git clone https://github.com/dunglas/symfony-docker?tab=readme-ov-file .
+```
+
 ## Installation d'asset mapper:
 
 ```
