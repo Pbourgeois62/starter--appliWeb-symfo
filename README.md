@@ -1,4 +1,4 @@
-# Ma Config :
+# Ma Config (commandes déjà réalisées) :
 
 ## Installation d'asset mapper:
 
