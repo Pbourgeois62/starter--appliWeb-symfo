@@ -1,6 +1,6 @@
 # Ma Config :
 
-[!Installation d'asset mapper:]
+## Installation d'asset mapper:
 
 ```
 composer require symfony/asset-mapper symfony/asset symfony/twig-pack
